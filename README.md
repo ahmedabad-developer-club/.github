@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-    Don't forget to join us on Discord and YouTube too...<br />
+    Don't forget to join us on Discord<br />
     <a align="center" href="https://discord.gg/Dn3DwmFp"><img alt="Join our Discord community here."
 src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40" height="50"/></a>
     <hr>
