@@ -12,7 +12,7 @@
 
 <p align="center">
     Don't forget to join us on Discord<br />
-    <a align="center" href="https://discord.gg/Dn3DwmFp"><img alt="Join our Discord community here."
+    <a align="center" href="https://discord.gg/XwpKPsmPZK"><img alt="Join our Discord community here."
 src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40" height="50"/></a>
     <hr>
     And Yes if you want to be part of exciting and collaborating learning community so don't forget to fill out this form : https://linktr.ee/club_ahmedabad
